@@ -454,7 +454,7 @@ if (typeof createBulkSeats == "undefined") {
         console.log("createBulkSeats() request data", arg);
         console.log("createBulkSeats() username and session", window.userData.username, window.userData.sessionId);
 
-        axios.post(API_BASE_URL + "api/seats/bulkcreate", arg, {
+        axios.post(API_BASE_URL + "bulkcreate", arg, {
             headers : {
                 'Accept' : 'application/json',
                 'Content-Type' : 'application/json; charset=utf-8',
