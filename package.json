@@ -14,7 +14,6 @@
     "console-stamp": "^0.2.9",
     "cookie-parser": "~1.4.3",
     "cors": "^2.8.5",
-    "crypto-pbkdf2": "^0.1.2",
     "debug": "~2.6.9",
     "dotenv": "^8.2.0",
     "ejs": "~2.6.1",
