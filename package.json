@@ -14,6 +14,7 @@
     "console-stamp": "^0.2.9",
     "cookie-parser": "~1.4.3",
     "cors": "^2.8.5",
+    "crypto-pbkdf2": "^0.1.2",
     "debug": "~2.6.9",
     "dotenv": "^8.2.0",
     "ejs": "~2.6.1",
@@ -22,6 +23,7 @@
     "http-errors": "~1.6.3",
     "jsonwebtoken": "^8.5.1",
     "moment": "^2.24.0",
+    "mongodb": "^3.5.4",
     "mongoose": "5.9.1",
     "monogram": "^0.2.5",
     "morgan": "~1.9.1",
@@ -29,7 +31,6 @@
     "proc": "^0.2.2",
     "uuid": "^3.4.0",
     "validator": "10.11.0",
-    "xml2js": "^0.4.23",
-    "mongodb": "^3.5.4"
+    "xml2js": "^0.4.23"
   }
 }
